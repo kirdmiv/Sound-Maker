@@ -1,0 +1,6 @@
+c:\users\kirdm\documents\visual studio 2017\Projects\SoundMaker\SoundMaker\bin\Debug\SoundMaker.exe.config
+c:\users\kirdm\documents\visual studio 2017\Projects\SoundMaker\SoundMaker\bin\Debug\SoundMaker.exe
+c:\users\kirdm\documents\visual studio 2017\Projects\SoundMaker\SoundMaker\bin\Debug\SoundMaker.pdb
+c:\users\kirdm\documents\visual studio 2017\Projects\SoundMaker\SoundMaker\obj\Debug\SoundMaker.csprojResolveAssemblyReference.cache
+c:\users\kirdm\documents\visual studio 2017\Projects\SoundMaker\SoundMaker\obj\Debug\SoundMaker.exe
+c:\users\kirdm\documents\visual studio 2017\Projects\SoundMaker\SoundMaker\obj\Debug\SoundMaker.pdb
